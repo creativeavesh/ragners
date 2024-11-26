@@ -19,7 +19,15 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
-	<item>
+        <wp_options>
+            <wp_option>
+                <name>
+                    shopengine_activated_templates                </name>
+                <val>
+                    a:0:{}                </val>
+            </wp_option>
+        </wp_options>
+        	<item>
 		<title>Hello world!</title>
 		<link>https://creativeavesh.github.io/ragners/hello-world/</link>
 					<comments>https://creativeavesh.github.io/ragners/hello-world/#comments</comments>

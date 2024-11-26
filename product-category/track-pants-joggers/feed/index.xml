@@ -19,7 +19,15 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
-	<item>
+        <wp_options>
+            <wp_option>
+                <name>
+                    shopengine_activated_templates                </name>
+                <val>
+                    a:0:{}                </val>
+            </wp_option>
+        </wp_options>
+        	<item>
 		<title>MEN&#8217;S CRICKET STRAIGHT FIT TROUSER CTS 500 STORM GREY</title>
 		<link>https://creativeavesh.github.io/ragners/product/mens-cricket-straight-fit-trouser-cts-500-storm-grey/</link>
 					<comments>https://creativeavesh.github.io/ragners/product/mens-cricket-straight-fit-trouser-cts-500-storm-grey/#respond</comments>
